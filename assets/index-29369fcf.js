@@ -96,4 +96,4 @@ Error generating stack: `+i.message+`
   font-size: 80px;
   color: white;
   min-height: 100vh;
-`;function Km(){return $e.jsx(Qm,{children:$e.jsx(Bm,{children:$e.jsx(Am,{children:$e.jsx(If,{path:"/",element:$e.jsx(Hm,{})})})})})}Ni.createRoot(document.getElementById("root")).render($e.jsx(aa.StrictMode,{children:$e.jsx(Km,{})}));
+`;function Km(){return $e.jsx(Qm,{children:$e.jsx(Bm,{children:$e.jsx(Am,{children:$e.jsx(If,{path:"/Infinify-Scroll-Test",element:$e.jsx(Hm,{})})})})})}Ni.createRoot(document.getElementById("root")).render($e.jsx(aa.StrictMode,{children:$e.jsx(Km,{})}));
