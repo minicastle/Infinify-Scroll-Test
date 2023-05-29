@@ -2,7 +2,6 @@ import React from "react";
 import styled from "@emotion/styled";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Test from "./Pages/Test";
-import Demo from "./Pages/Demo";
 
 const Container = styled.div`
   display: flex;
