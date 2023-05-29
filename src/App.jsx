@@ -25,7 +25,7 @@ function App() {
     <Container>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Test />}></Route>
+          <Route path="/Infinify-Scroll-Test" element={<Test />}></Route>
         </Routes>
       </BrowserRouter>
     </Container>
